@@ -1,17 +1,17 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-## Installation
+### Installation
 
-Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+Öncelikle projeyi clonelayın
 
 ```bash
-git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
+git clone https://github.com/fzehraa/kodluyoruzilkrepo.git
 ```
 
-## Usage
+### Usage (Kullanım)
 
-Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+Projeyi clone ladıktan sonra Visual Studio'da açınız
 
 Linux için:
 ```linux
